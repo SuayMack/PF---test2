@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(payflow LANGUAGES CXX)
+project(billsflow LANGUAGES CXX)
 
-set(BINARY_NAME "payflow")
+set(BINARY_NAME "billsflow")
 
 cmake_policy(SET CMP0063 NEW)
 

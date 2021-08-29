@@ -5,12 +5,12 @@
    "version": "0.2.0",
    "configurations": [
       {
-         "name": "payflow",
+         "name": "billsflow",
          "request": "launch",
          "type": "dart"
       },
       {
-         "name": "payflow (profile mode)",
+         "name": "billsflow (profile mode)",
          "request": "launch",
          "type": "dart",
          "flutterMode": "profile"

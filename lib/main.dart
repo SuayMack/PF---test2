@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:payflow/shared/themes/app_colors.dart';
-import 'package:payflow/shared/themes/modules/home/home_pege.dart';
-import 'package:payflow/shared/themes/modules/login/login_page.dart';
+import 'package:billsflow/shared/themes/app_colors.dart';
+import 'package:billsflow/shared/themes/modules/home/home_pege.dart';
+import 'package:billsflow/shared/themes/modules/login/login_page.dart';
 // ignore: unused_import
-import 'package:payflow/shared/themes/modules/splash_page.dart';
+import 'package:billsflow/shared/themes/modules/splash_page.dart';
 
 void main() {
   runApp(AppWidget());
