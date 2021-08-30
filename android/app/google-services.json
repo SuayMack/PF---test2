@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473970687477",
+    "project_id": "billsflow-135fd",
+    "storage_bucket": "billsflow-135fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473970687477:android:305e2192a80daa742c34bc",
+        "android_client_info": {
+          "package_name": "com.example.billsflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473970687477-le9hkccmv714cekq3h32ok9uvva97sik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.billsflow",
+            "certificate_hash": "0acd79b7b35b6b3a6a1990ec4d4821e0a77b5f3f"
+          }
+        },
+        {
+          "client_id": "473970687477-j9iledube21qm693ruqmpkgfros76f6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUIHo49R5Xs2hjQEapBRQlNQ3eLkuGIzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473970687477-j9iledube21qm693ruqmpkgfros76f6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
